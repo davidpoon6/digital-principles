@@ -27,7 +27,7 @@ Deliver simple, effective products and services that improve lives, doing so via
 Apply the highest standards of accessibility, inclusion and ethics at every stage of product and service design, development and delivery.
 
 ### 4.       Continuously learn & improve
-Iterate and improve products and services frequently to support learning and innovation; use modern tools and approaches; be flexible to change, accepting ongoing user feedback; test early and often; start small and scale up.
+Iterate and improve products and services frequently to support learning and innovation; use modern tools and approaches; be flexible to change, continuously seeking and accepting user feedback; test early and often; start small and scale up.
 
 ### 5.       Work in the open
 Adopt open standards to facilitate interoperability and scalability; work in the open to collaborate, co-design and co-create with users; release open data and APIs; default towards open licenses, open and interoperable standards, open-source code and open, cross-sector collaboration.
